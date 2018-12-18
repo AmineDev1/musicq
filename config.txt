@@ -1,0 +1,6 @@
+﻿token=NTI0NzA2NDg2OTA4MDkyNDI2.DvsB7w.BehGQEvQVSHa1rn5p5rF6Yu15D0
+owner=445406863048048642 
+prefix= U
+game= !thelp
+stayinchannel=true
+songinstatus=true 
